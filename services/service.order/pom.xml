@@ -36,5 +36,16 @@
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-eureka</artifactId>
 		</dependency>
+		
+		<dependency>
+			<groupId>com.stone.cloud</groupId>
+			<artifactId>commons.entity</artifactId>
+			<version>${project.ext.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.stone.cloud</groupId>
+			<artifactId>commons.tools</artifactId>
+			<version>${project.ext.version}</version>
+		</dependency>
 	</dependencies>
 </project>
