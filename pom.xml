@@ -39,6 +39,7 @@
 	<modules>
 		<module>eureka.server</module>
 		<module>services</module>
+		<module>commons</module>
 	</modules>
 	
 	<dependencies>
